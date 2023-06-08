@@ -5,6 +5,7 @@ Temperature Converter
 The Temperature Converter is a simple web application that allows users to convert temperatures between different units of measurement. It is built using HTML, CSS, and JavaScript, making it easily accessible and interactive for users.
 
 Features
+
 User-Friendly Interface: The temperature converter provides a clean and intuitive interface, ensuring a smooth user experience.
 
 Multiple Temperature Units: The converter supports the conversion of temperatures between various units, including Celsius (°C), Fahrenheit (°F), and Kelvin (K). Users can input a temperature value in any of these units and instantly see the converted values in the other units.
@@ -14,10 +15,13 @@ Responsive Design: The application is designed to be responsive and can adapt to
 Error Handling: The converter includes error handling to ensure that users enter valid temperature values. If the user inputs an invalid value, such as non-numeric characters or leaving the input field blank, appropriate error messages are displayed to guide the user.
 
 Technologies Used
+
 The Temperature Converter is developed using the following technologies:
 
 HTML: The markup language used for structuring the web page.
+
 CSS: The stylesheet language used for enhancing the visual presentation of the converter.
+
 JavaScript: The programming language used to implement the conversion logic and interactivity of the application.
 How to Use
 To use the Temperature Converter, follow these simple steps:
